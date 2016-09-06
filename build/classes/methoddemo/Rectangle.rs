@@ -1,0 +1,2 @@
+methoddemo.Rectangle
+methoddemo.method
