@@ -25,5 +25,9 @@ public class BufferReader {
             System.out.println(c);
         }while(c != 'q');
     }
+
+    public BufferReader(InputStreamReader inputStreamReader) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
