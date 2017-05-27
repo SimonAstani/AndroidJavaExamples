@@ -25,7 +25,7 @@ public class Interface {
         public void rollno(){
             System.out.println("9849885478");
         }
-        private void main(String[] args) {
+        public void main(String[] args) {
             
             Details details = new Details();
             System.out.println("Name:");

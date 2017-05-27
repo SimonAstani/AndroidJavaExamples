@@ -1,2 +1,0 @@
-methoddemo.Rectangle
-methoddemo.method
